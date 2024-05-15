@@ -1,0 +1,66 @@
+body{
+    background-image: url(images/5452393.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.nav h,a{
+    text-decoration: none;
+    color: aqua;
+    font-family: cursive;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.nav{
+    list-style-type: none;
+    margin-top: -67vh;
+    margin-right: 20px;
+}
+.s,a{
+    margin-bottom: 1vh;
+}
+    
+
+.h,a{
+    margin-bottom: 1vh;
+}
+.b,a{
+    margin-bottom: 1vh;
+}
+.About{
+    color: red;
+    margin-left: 40vh;
+    
+    
+}
+p{
+    color: aqua;
+    font-size: 25px;
+    margin-left: 40vh;
+    font-family: cursive;
+    margin-top: -0.3vh;
+}
+.str1{
+    margin-left: 40vh;
+    color: white;
+}
+
+
+.str2{
+    margin-left: 40vh;
+    color: white;
+}
+.str3{
+    margin-left: 40vh;
+    color: white;
+}
+.str4{
+    margin-left: 40vh;
+    color: white;
+}
+.str5{
+    margin-left: 40vh;
+    color: white;
+}
+

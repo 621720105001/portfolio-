@@ -1,0 +1,107 @@
+body{
+    background-image: url(images/5452393.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.nav h,a{
+    text-decoration: none;
+    color: aqua;
+    font-family: cursive;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.nav{
+    list-style-type: none;
+    margin-top: 20vh;
+    margin-right: 20px;
+}
+.s,a{
+    margin-bottom: 1vh;
+    margin-right: 10vh;
+}
+.h,a{
+    margin-bottom: 1vh;
+}
+.b,a{
+    margin-bottom: 1vh;
+}
+.cont{
+    color: red;
+    margin-left: 36vh;
+    margin-top: -28vh;
+}
+.call{
+    margin-left: 40vh;
+    margin-top: -38vh;
+    color: white;
+}
+.nice{
+    height: 40vh;
+    width: 40vh;
+    margin-left: 115vh;
+}
+.gmail{
+    color: white;
+    margin-left: 40vh;
+}
+.add{
+    color: white;
+    margin-left: 40vh;
+}
+.namelink{
+    color: white;
+    margin-left: 40vh;
+    margin-top: 3vh;
+}
+.namelink1{
+    margin-top: -4vh;
+    margin-left: 40vh;
+    color: whitesmoke;
+}
+.dub{
+    margin-left: 30vh;
+    margin-top: 3vh;
+    color: wheat;
+}
+.information{
+    position: absolute;
+    margin-top: 45vh;
+}
+.information li{
+    list-style-type: none;
+    margin-top: 6.5vh;
+}
+.mobile{
+    position: absolute;
+    margin-top: -37.5vh;
+    margin-left: 36vh;
+    color: white;
+}
+.mail{
+    position: absolute;
+    color: white;
+    margin-left: 36vh;
+    margin-top: 0.5vh;
+}
+ .linkedin{
+    position: absolute;
+    color: white;
+    margin-left: 36vh; 
+    margin-top: 1vh;
+    font-size: 3vh;
+    
+} 
+.location{
+    position: absolute;
+    color: white;
+    margin-left: 36vh;
+    margin-top: 0.5vh;
+}
+.git{
+    position: absolute;
+    color: white;
+    margin-left: 26vh;
+    margin-top: 0.5vh;
+    font-size: 3vh;
+}

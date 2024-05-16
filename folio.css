@@ -1,5 +1,5 @@
 body{
-    background-image: url(images/5452393.jpg);
+    background-image: url(images/sky.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -47,27 +47,28 @@ body{
     margin-bottom: 1vh;
 }
 h1{
-    margin-left: 50vh;
+    padding-top: 5vh;
+    margin-left: 10vh;
     color: wheat;
-    margin-top: -20vh;
     
     
     
 }
 h2{
-    margin-left: 50vh;
+    margin-left: 10vh;
     color: white;
    
     
 }
 h3{
-    margin-left: 50vh;
+    margin-left: 10vh;
     color: wheat;
 }
+
 .linking li{
     display: inline-block;
-    color: orangered;
-    margin-left: 45vh;
+    color: darkblue;
+    margin-left: 5vh;
     list-style-type: none;
     font-size: 3vh;
     
@@ -78,4 +79,13 @@ h3{
 }
 .linking .git{
     margin-left: 0.5vh;
+}
+.det{
+    background-color: rgb(119, 106, 187);
+    margin-top: -25vh;
+    margin-left: 50vh;
+    width: 90vh;
+    height: 50vh;
+    border: 10px darkmagenta double;
+    border-radius: 50px;
 }

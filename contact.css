@@ -1,5 +1,5 @@
 body{
-    background-image: url(images/5452393.jpg);
+    background-image: url(images/dark.avif);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -32,8 +32,8 @@ body{
     margin-top: -28vh;
 }
 .call{
-    margin-left: 40vh;
-    margin-top: -38vh;
+    margin-left: 9vh;
+    margin-top:5vh;
     color: white;
 }
 .nice{
@@ -43,20 +43,21 @@ body{
 }
 .gmail{
     color: white;
-    margin-left: 40vh;
+    margin-left: 9vh;
+    margin-top: 3vh;
 }
 .add{
     color: white;
-    margin-left: 40vh;
+    margin-left: 9vh;
 }
 .namelink{
     color: white;
-    margin-left: 40vh;
+    margin-left: 9vh;
     margin-top: 3vh;
 }
 .namelink1{
     margin-top: -4vh;
-    margin-left: 40vh;
+    margin-left: 9vh;
     color: whitesmoke;
 }
 .dub{
@@ -66,28 +67,35 @@ body{
 }
 .information{
     position: absolute;
-    margin-top: 45vh;
+    background-color: rgb(75, 104, 129);
+    margin-top: 5vh;
+    margin-left: 40vh;
+    width: 80vh;
+    height: 50vh;
+    border-radius: 50px;
+    border: 10px darkmagenta double;
 }
+
 .information li{
     list-style-type: none;
     margin-top: 6.5vh;
 }
 .mobile{
     position: absolute;
-    margin-top: -37.5vh;
-    margin-left: 36vh;
+    margin-top:5.5vh;
+    margin-left: 5vh;
     color: white;
 }
 .mail{
     position: absolute;
     color: white;
-    margin-left: 36vh;
-    margin-top: 0.5vh;
+    margin-left: 5vh;
+    margin-top: 1vh;
 }
- .linkedin{
+.linkedin{
     position: absolute;
     color: white;
-    margin-left: 36vh; 
+    margin-left: 5vh; 
     margin-top: 1vh;
     font-size: 3vh;
     
@@ -95,13 +103,16 @@ body{
 .location{
     position: absolute;
     color: white;
-    margin-left: 36vh;
+    margin-left: 5vh;
     margin-top: 0.5vh;
 }
 .git{
     position: absolute;
-    color: white;
-    margin-left: 26vh;
-    margin-top: 0.5vh;
+    margin-left: -5vh;
     font-size: 3vh;
+    color: white;
+    margin-top: 0.5vh;
 }
+
+
+
